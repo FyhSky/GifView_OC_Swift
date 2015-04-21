@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E3B0DAC1-2E5A-42FD-B565-E2042660CEA8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GifView_Swift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>69D488851FA5E8CC39F3E3A07F8B6E6856087730</key>
+		<string>https://github.com/FyhSky/Mac.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GifView_OC_Swift/GifView_Swift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>69D488851FA5E8CC39F3E3A07F8B6E6856087730</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/FyhSky/Mac.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>69D488851FA5E8CC39F3E3A07F8B6E6856087730</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>69D488851FA5E8CC39F3E3A07F8B6E6856087730</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mac</string>
+		</dict>
+	</array>
+</dict>
+</plist>
